@@ -1,2 +1,2 @@
 # demo some project
-could not share data because of sentivive matters
+could not share data because of sensitive matters
